@@ -4,7 +4,7 @@ title:  "Introducing ScaleDown"
 author: soham 
 categories: [ updates ]
 image: assets/images/introducing-scaledown/cover.jpg
-tags: [featured]
+tags: [ featured, sticky ]
 ---
 Over the last decade, the popularity of smart connected devices has led to an exponential growth of Internet of Things (IoT) devices. Around the same time, the availability of a vast amount of data and parallel computing using GPUs has also increased the utilization of deep learning and neural networks in the industry
 
