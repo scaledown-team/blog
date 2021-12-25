@@ -22,7 +22,7 @@ authors:
     soham:
       name:           Soham
       site:           https://www.csoham.com
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/soham.jpg
       bio:            "Hi, I am Soham! "
       email:          hello@csoham.com
       twitter:        https://twitter.com/csoham_
@@ -30,7 +30,7 @@ authors:
     archana:
       name:           Archana
       site:           https://www.varchanaiyer.github.io
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/archana.jpeg
       bio:            "Hi, I am Archana!"
       email:          varchanaiyer139@gmail.com
       twitter:        https://twitter.com/varchanaiyer_
