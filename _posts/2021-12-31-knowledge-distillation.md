@@ -4,7 +4,7 @@ title:  "Knowledge Distillation in Neural Networks"
 author: archana
 categories: [ updates ]
 image: assets/images/optimization_techniques/2.png
-<!-- tags: [ featured, sticky ] -->
+tags: [featured]
 ---
 # Knowledge Distillation
 
