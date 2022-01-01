@@ -12,6 +12,9 @@
 		<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
 		{% endfor %}
 		</span>
+		By <span class="catlist">
+		<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/author-{{ post.author | downcase }}">{{ post.author}}</a><span class="sep">, </span>
+		</span>
 	</small>
 	<small class="text-muted">
 		{{ post.date | date: '%b %d, %Y' }}

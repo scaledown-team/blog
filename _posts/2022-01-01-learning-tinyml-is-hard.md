@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Learning TinyML is Hard. Here is what ScaleDown is trying to do about it."
+title:  "Learning TinyML is Hard. Here is what ScaleDown is trying to do about it"
 author: soham 
 categories: [ education ]
-image: assets/images/learning-tinyml/cover.jpg
+image: assets/images/learning_tinyml/scaledown-blogs.png
 tags: [ featured, sticky ]
 ---
 A few days ago, we announced that our [project received the No Starch Press Foundation grant](/_posts/2021-12-21-nspf.md). Their decision has given us the motivation to continue working on this project and the confidence that our goal to make TinyML education easier is a challenge that is worth pursuing and an important contribution to the FOSS community.
@@ -27,7 +27,7 @@ I know mainly about ML and electronics engineering and very little about develop
 
 	Unfortunately, you cannot physically manipulate the device with hosted hardware, which is essential if your project uses sensors like an IMU, pressure sensor, or accelerometer. Moreover, having physical hardware access helps you learn the intricacies of properly powering them, collecting data, attaching sensors, and integrating with other systems.
 
-	Moreover, while TinyML hardware may seem cheap, they are still expensive and inaccessible to a large group of people. For instance, in India, the cost of a US$ 35 Raspberry Pi is equivalent to a large chunk of (or even more than) the monthly income of most families! And I am sure this is the case in many other countries as well. If you include the cost of sensors, wires, resistors and caps, batteries, breadboards, and power devices, then the price quickly becomes unaffordable. Even free hardware (like those from hackster competitions) are usually new devices and not ideal for beginners.
+	Moreover, while TinyML hardware may seem cheap, they are still expensive and inaccessible to a large group of people. For instance, in India, the cost of a US$ 35 Raspberry Pi is equivalent [to a large chunk of (or even more than)](https://timesofindia.indiatimes.com/business/india-business/top-1-hold-22-of-income-india-among-most-unequal-nations-shows-report/articleshow/88149699.cms) the monthly income of most families! And I am sure this is the case in many other countries as well. If you include the cost of sensors, wires, resistors and caps, batteries, breadboards, and power devices, then the price quickly becomes unaffordable. Even free hardware (like those from hackster competitions) are usually new devices and not ideal for beginners.
 
 	We believe that this is one of the most significant factors stopping more people from learning TinyML and is one of the primary reasons we created ScaleDown.
 
